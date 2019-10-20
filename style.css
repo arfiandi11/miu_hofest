@@ -5,12 +5,12 @@ div{
     display: block;
 }
 .dropdown-item {
-    transition: all 0.5s;
+    transition: all 0.1s;
     cursor: pointer;
   }
 .dropdown-item:hover{
     background-color: aqua;
-    color: white;
+    color: grey;
   }  
   .dropdown-item span {
     cursor: pointer;
